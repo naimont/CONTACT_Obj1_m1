@@ -15,9 +15,7 @@ This depository contains data and codes associated with the study on the Chlorin
 
 | Column Name        | Variable type        | Description |
 |--------------------|-------------|-------------|
-| sanitizer  |  Categorical      |  Type of the sanitizer
 | assay      |  Categorical      |  The assays used for the quantification of each microbial group |
-| sample     |  Categorical      |  Microbe-suspended matrix to be studied |
 |  chl.added  | Numerical        |  Free chlorine (ppm) dosages added to samples  |
 |  chl.measured  | Numerical      |  Free chlorine (ppm) residual measured in the samples  |
 |  chl.measured.ave  | Numerical      | Average of free chlorine (ppm) residual measured in the samples  |
@@ -26,9 +24,11 @@ This depository contains data and codes associated with the study on the Chlorin
 |  CLD.se    | Numerical        | Standard error of chlorine demand averages in ppm free chlorine  |
 | microb    | Categorical       |  Microbial groups |
 | rep        | Numerical    |  Number of each biological repliate |
+| sample     |  Categorical      |  Microbe-suspended matrix to be studied |
+| sanitizer  |  Categorical      |  Type of the sanitizer
 |  survival  |Numerical    |    Microbial survival
-|time |Categorical| Time (min) in which the samples were incubated |
-|temp|Categorical|Temperature in which the samples were incubated (set to 12ºC)  |
+|  temp  |  Categorical  |  Temperature in which the samples were incubated (set to 12ºC)  |
+|  time  |  Categorical  |  Time (min) in which the samples were incubated |
 
 ## 🧾 Categorical Variables and Levels
 |Category  | Levels        | Description        | Unit|
