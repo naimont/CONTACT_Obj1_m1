@@ -35,9 +35,9 @@ This depository contains data and codes associated with the study on the Chlorin
 |----  |-----------|--------------------|-----|
 |assay|plate|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/ml|
 ||plaque|Plaque assay  | log<sub>10</sub> Plauque-Forming Units (PFFU)/ml|
-|sample|ag1 and ag2|Preharvest agricultural waters from site 1 and 2 |-|
+|sample|ag1, ag2|Preharvest agricultural waters from site 1 and 2 |-|
 ||di|deionizedd water|-|
 |microbe|ec|Enteric bacteria: _Escherichia coli_ TVS 353|-|
 ||tv|Enteric virus: Tulane virus (a surrogate for human norovirus)|-|
 
-Last update: March 29, 2025
+Last update: April 19, 2025
