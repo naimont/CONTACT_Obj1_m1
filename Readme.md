@@ -34,7 +34,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 | rep                 | Biological replicate number |
 | sample              | Suspension matrix |
 | sanitizer           | Sanitizer used |
-| survival            | Microbial survival (log₁₀ PFU or CFU) |
+| survival            | Microbial titer |
 | temp                | Incubation temperature (ºC) |
 | time                | Incubation/contact time (min) |
 
