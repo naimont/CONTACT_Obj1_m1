@@ -34,12 +34,10 @@ This depository contains data and codes associated with the study on the Chlorin
 |Category  | Levels        | Description        | Unit|
 |----  |-----------|--------------------|-----|
 |assay|plate|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/ml|
-||tcid50|50% Tissue Culture Infectious Dose (TCID<sub>50</sub>)| log<sub>10</sub> TCID<sub>50</sub>/ml|
-||pcr|quantitative reverse transcription polymerase chain reaction (RT-qPCR)| log<sub>10</sub> Genome Copies (GC)/ml|
-|matrix|ag3|Preharvest agricultural water, served as treatment|-|
-||pbdw|Phosphate Buffer Dilution Water (PBDW), served as control group|-|
+||plaque|Plaque assay  | log<sub>10</sub> Plauque-forming units (PFFU)/ml|
+|sample|ag1 and ag2|Preharvest agricultural waters from site 1 and 2 |-|
+||di|deionizedd water|-|
 |microbe|ec|Enteric bacteria: _Escherichia coli_ TVS 353|-|
-||nv|Enteric virus: Human norovirus GII (HuNoV GII)|-|
 ||tv|Enteric virus: Tulane virus (a surrogate for human norovirus)|-|
 
 Last update: March 29, 2025
