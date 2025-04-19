@@ -44,10 +44,10 @@ This depository contains data and codes associated with the study on the Chlorin
 |------------|--------------|--------------------------------------------------------------|------|
 | assay      | `plate`      | Total plate count                                            | log<sub>10</sub> CFU/mL |
 |            | `plaque`     | Plaque assay                                                 | log<sub>10</sub> PFU/mL |
-| sample     | `ag1`, `ag2` | Preharvest agricultural water samples (site 1 and 2)         | — |
-|            | `di`         | Deionized water                                              | — |
 | microb     | `ec`         | Enteric bacterium: _Escherichia coli_ TVS 353               | — |
 |            | `tv`         | Enteric virus: Tulane virus (surrogate for human norovirus) | — |
+| sample     | `ag1`, `ag2` | Preharvest agricultural water samples (site 1 and 2)         | — |
+|            | `di`         | Deionized water                                              | — |
 | time       | `5`, `10`    | Incubation/contact time                                      | minutes |
 
 ---
