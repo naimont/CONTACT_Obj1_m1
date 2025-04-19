@@ -24,7 +24,7 @@ This depository contains data and codes associated with the study on the Chlorin
 |  chl.measured.se  | Numerical      | Standard error of free chlorine (ppm) residual averages measured in the samples  |
 |  CLD.ave    | Numerical        | Average of chlorine demand in ppm free chlorine  |
 |  CLD.se    | Numerical        | Standard error of chlorine demand averages in ppm free chlorine  |
-| microbe    | Categorical       |  Microbial groups |
+| microb    | Categorical       |  Microbial groups |
 | rep        | Numerical    |  Number of each biological repliate |
 |  survival  |Numerical    |    Microbial survival
 |time |Categorical| Time (min) in which the samples were incubated |
