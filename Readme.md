@@ -17,7 +17,7 @@ This depository contains data and codes associated with the study on the Chlorin
 
 ---
 
-## 🧬 Data Structure
+## :file_cabinet: Data Structure
 
 | Column Name         | Type         | Description |
 |---------------------|--------------|-------------|
