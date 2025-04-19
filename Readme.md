@@ -1,4 +1,5 @@
-# Pathogen_Persistance_AgWater
+# Chlorine inactivation of enteric pathogens in agricultural water
+## Citation
 This depository contains data associated with the study on the persistence of enteric pathogens in preharvest agricultural water and is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ## 📂 Files Included
