@@ -34,7 +34,7 @@ This depository contains data and codes associated with the study on the Chlorin
 |Category  | Levels        | Description        | Unit|
 |----  |-----------|--------------------|-----|
 |assay|plate|Total plate count| log<sub>10</sub> Colony-Forming Units (CFU)/ml|
-||plaque|Plaque assay  | log<sub>10</sub> Plauque-forming units (PFFU)/ml|
+||plaque|Plaque assay  | log<sub>10</sub> Plauque-Forming Units (PFFU)/ml|
 |sample|ag1 and ag2|Preharvest agricultural waters from site 1 and 2 |-|
 ||di|deionizedd water|-|
 |microbe|ec|Enteric bacteria: _Escherichia coli_ TVS 353|-|
