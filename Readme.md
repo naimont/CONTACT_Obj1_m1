@@ -1,5 +1,6 @@
 # Chlorine inactivation of enteric pathogens in agricultural water
-## Citation to the manuscript (TBD)
+
+Citation to the manuscript (TBD)
 
 This depository contains data and codes associated with the study on the Chlorine inactivation of enteric pathogens in agricultural water. It is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
