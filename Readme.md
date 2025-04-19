@@ -44,7 +44,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 | Variable   | Levels        | Description                                                  | Unit               |
 |------------|----------------|--------------------------------------------------------------|--------------------|
-| assay      | `plate`        | Total plate count assay                                      | log₁₀ CFU/mL       |
+| assay      | `plate`        | Total plate count                                      | log₁₀ CFU/mL       |
 |            | `plaque`       | Plaque assay                                                 | log₁₀ PFU/mL       |
 | microb     | `ec`           | Enteric bacterium: *Escherichia coli* TVS 353               | —                  |
 |            | `tv`           | Enteric virus: Tulane virus (HuNoV surrogate)               | —                  |
