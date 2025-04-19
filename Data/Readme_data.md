@@ -1,10 +1,10 @@
-# Pathogen_Persistance_AgWater
-This depository contains data associated with the study on the persistence of enteric pathogens in preharvest agricultural water and is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+# CONTACT_Obj1_m1
+This depository contains data associated with the study on the chlorine inactivation of enteric pathogens in preharvest agricultural water. It is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ## 📂 Files Included
 
-- `obj1_dat.RDS`: Microbial counts collected from the experiments.
-- `obj1_ph.RDS`: Agricultural water pH data collected from the experiments.
+- `obj1_chl_NM.txt`: Chlorine dosage, residual chlorine, and chlorine demand data.
+- `obj1_m1_NM.txt`: Microbial inactivation data following chlorine treatment.
 
 ## 📊 Data Structure
 
