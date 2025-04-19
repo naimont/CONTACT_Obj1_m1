@@ -9,7 +9,6 @@ This depository contains data and codes associated with the study on the Chlorin
 - `obj1_chl_NM.txt`: Contains data on chlorine dosages and chlorine demand, used to assess residual chlorine levels under varying treatment conditions.
 - `obj1_m1_NM.txt`: Contains microbial inactivation data collected under different experimental conditions, and microbial response reported at log<sub>10</sub> microbial counts.
 ### Codes/Outputs
-- `UF_CONTACT_Obj1_NM012025.qmd`: Quarto source file containing all code for the analysis.
 - `UF_CONTACT_Obj1_NM012025.pdf`: Rendered output with integrated text, code results, and figures.
 
 ## 📊 Data Structure
