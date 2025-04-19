@@ -15,7 +15,6 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 - `obj1_m1_NM.txt`: Contains microbial inactivation data under different experimental conditions, with microbial response reported as log₁₀ microbial counts.
 
 ### 📁 Code and Output
-- `UF_CONTACT_Obj1_NM012025.qmd` (optional): Quarto source file with embedded R code and narrative.
 - `UF_CONTACT_Obj1_NM012025.pdf`: Rendered Quarto report including integrated code, results, and figures.
 
 ---
