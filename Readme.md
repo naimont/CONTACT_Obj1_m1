@@ -13,12 +13,18 @@ This depository contains data and codes associated with the study on the Chlorin
 
 ## 📊 Data Structure
 
-| Column Name        | Type        | Description |
+| Column Name        | Variable type        | Description |
 |--------------------|-------------|-------------|
-|day|numeric|Sampling intervals in days
-| assay      | Categorical     | The assays used for the quantification of each microbial group |
-| matrix     | Categorical        | Microbe-suspended matrix to be studied |
-| microbe          | Categorical | Microbial groups |
+| sanitizer  |  Categorical      |  Type of the sanitizer
+| assay      |  Categorical      |  The assays used for the quantification of each microbial group |
+| sample     |  Categorical      |  Microbe-suspended matrix to be studied |
+|  chl.added  | Numerical        |  Free chlorine (ppm) dosages added to samples  |
+|  chl.measured  | Numerical      |  Free chlorine (ppm) residual measured in the samples  |
+|  chl.measured.ave  | Numerical      | Average of free chlorine (ppm) residual measured in the samples  |
+|  chl.measured.se  | Numerical      | Standard error of free chlorine (ppm) residual averages measured in the samples  |
+|  CLD.ave    | Numerical        | Average of chlorine demand in ppm free chlorine  |
+|  CLD.se    | Numerical        | Standard error of chlorine demand averages in ppm free chlorine  |
+| microbe    | Categorical       |  Microbial groups |
 |pH|Numerical|pH of water samples
 | replicate   | Numerical     | Number of each biological repliate |
 |survival|Numerical|Microbial survival
