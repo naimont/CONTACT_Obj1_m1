@@ -1,11 +1,13 @@
 # Chlorine inactivation of enteric pathogens in agricultural water
-## Citation
-This depository contains data associated with the study on the persistence of enteric pathogens in preharvest agricultural water and is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+## Citation to the manuscript (TBD)
+
+This depository contains data and codes associated with the study on the Chlorine inactivation of enteric pathogens in agricultural water. It is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ## 📂 Files Included
 
-- `obj1_dat.RDS`: Microbial counts collected from the experiments.
-- `obj1_ph.RDS`: Agricultural water pH data collected from the experiments.
+- 'obj1_dat.RDS'| Microbial counts collected from the experiments.
+- 'obj1_ph.RDS'| Agricultural water pH data collected from the experiments.
+- 'UF CONTACT Obj1_NM012025.pdf': 
 
 ## 📊 Data Structure
 
