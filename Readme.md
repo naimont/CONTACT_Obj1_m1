@@ -52,5 +52,3 @@ This depository contains data and codes associated with the study on the Chlorin
 ---
 
 _Last updated: April 19, 2025_
-
-Last update: April 19, 2025
