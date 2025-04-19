@@ -25,13 +25,10 @@ This depository contains data and codes associated with the study on the Chlorin
 |  CLD.ave    | Numerical        | Average of chlorine demand in ppm free chlorine  |
 |  CLD.se    | Numerical        | Standard error of chlorine demand averages in ppm free chlorine  |
 | microbe    | Categorical       |  Microbial groups |
-|pH|Numerical|pH of water samples
-| replicate   | Numerical     | Number of each biological repliate |
-|survival|Numerical|Microbial survival
-|temp |Categorical| Temperature in which the water samples were incubated (set to 12ºC) |
-|week|Numerical|Sampling intervals in weeks |
-|week_fac|Categorical|Sampling intervals in weeks |
-
+| rep        | Numerical    |  Number of each biological repliate |
+|  survival  |Numerical    |    Microbial survival
+|time |Categorical| Time (min) in which the samples were incubated |
+|temp|Categorical|Temperature in which the samples were incubated (set to 12ºC)  |
 
 ## 🧾 Categorical Variables and Levels
 |Category  | Levels        | Description        | Unit|
