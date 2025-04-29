@@ -1,10 +1,11 @@
 # Chlorine Inactivation of Enteric Pathogens in Agricultural Water
 
 **Citation to the manuscript:** _TBD_
+**Archived on [Zenodo](https://doi.org/10.5281/zenodo.15249559) with DOI: [10.5281/zenodo.15249559](https://doi.org/10.5281/zenodo.15249559)
 
 This repository contains data and code associated with the study on chlorine inactivation of enteric pathogens in preharvest agricultural water. It includes microbial survival data, chlorine demand measurements, and a rendered analysis report created using Quarto.
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by/-nc-nd/4.0/).
 
 ---
 
