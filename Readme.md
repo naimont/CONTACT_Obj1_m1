@@ -1,5 +1,4 @@
-# Chlorine Inactivation of Enteric Pathogens in Agricultural Water
-## m1
+# Chlorine Inactivation of Enteric Pathogens in Agricultural Water (study 1)
 
 **Citation to the manuscript:** _TBD_
 
