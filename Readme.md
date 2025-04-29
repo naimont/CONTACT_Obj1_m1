@@ -2,7 +2,7 @@
 
 **Citation to the manuscript:** _TBD_
 
-**Archived on [Zenodo](https://doi.org/10.5281/zenodo.15249559) with DOI: [10.5281/zenodo.15249559](https://doi.org/10.5281/zenodo.15249559)
+📦 Archived on [Zenodo](https://doi.org/10.5281/zenodo.15249559) with DOI: [10.5281/zenodo.15249559](https://doi.org/10.5281/zenodo.15249559)
 
 This repository contains data and code associated with the study on chlorine inactivation of enteric pathogens in preharvest agricultural water. It includes microbial survival data, chlorine demand measurements, and a rendered analysis report created using Quarto.
 
