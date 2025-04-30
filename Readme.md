@@ -3,7 +3,7 @@
 **Citation to the manuscript:** Ashlyn Lake, Nuradeen Garba Yusuf, Mya Maybank, Sarah Johnson, Christopher K. Mutch, Alexander P. Mueck, Simon S. Riley, Arie H. Havelaar, Naim Montazeri.
 2025. Effectiveness of chlorine against Tulane virus, a human norovirus surrogate, and Escherichia coli in preharvest agricultural water. _Journal of Food Protection_, 100524. https://doi.org/10.1016/j.jfp.2025.100524.
 
-📦 Data and codes are archived on Zenodo https://doi.org/10.5281/zenodo.15249559
+📦 Data and codes are archived on Zenodo https://doi.org/10.5281/zenodo.15311745
 
 This repository contains data and code associated with the study on chlorine inactivation of enteric pathogens in preharvest agricultural water. It includes microbial survival data, chlorine demand measurements, and a rendered analysis report created using Quarto.
 
